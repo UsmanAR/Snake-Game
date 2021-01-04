@@ -1,2 +1,2 @@
 # Snake-Game
-Mouse controlled snake game developed in Java 
+Mouse controlled Snake Game developed in Java 
